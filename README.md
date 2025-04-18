@@ -18,10 +18,10 @@ This program displays the current time and date continuously on the terminal. Th
 ###  Menu
 ![Menu](menu.jpg)
 
-### Level 2
+### 12 hours format
 ![format 12](format12.jpg)
 
-### Level 3
+### 24 hours format
 ![format 24](format24.jpg)
 
 ---
